@@ -33,3 +33,23 @@ Given the head of a singly linked list, reverse the list, and return the reverse
 ### Reference for problem description
 
 [LeetCode: Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+## Getting Started
+
+Let's start to use this project.\
+There is a python file with the code and a Jupyter Notebook to visualize the code execution in your browser.
+
+### Prerequisites
+
+Python 3 must be installed.
+
+### Installation
+
+To execute the project open the terminal and go to the project folder. Then execute it with python:
+
+```sh
+python3 reverse_linked_list.py
+```
+
+You can also use Jupyter Notebook to execute it in your browser or text editor directly.
+
