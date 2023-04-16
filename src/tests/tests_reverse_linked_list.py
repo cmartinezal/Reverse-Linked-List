@@ -1,5 +1,10 @@
-from ..src.linked_list import Node, LinkedList
-    
+import os
+import sys
+root_folder = os.path.abspath(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+sys.path.append(root_folder)
+
+from linked_list.linked_list import Node, LinkedList
+   
 def test_case_1():
     #Iterative
     head = Node(1)
